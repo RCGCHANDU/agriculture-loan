@@ -1,0 +1,24 @@
+[
+    {
+        "email": "abc@bbc.com",
+        "username": "abc",
+        "mobileno": "9000000001",
+        "password": "iamabc",
+        "confirmPassword": "iamabc"
+    },
+    {
+        "email": "bcd@bbc.com",
+        "username": "bcd",
+        "mobileno": "9000000002",
+        "password": "iambcd",
+        "confirmPassword": "iambcd"
+    },
+    {
+        "email": "cde@bbc.com",
+        "username": "cde",
+        "mobileno": "9000000003",
+        "password": "iamcde",
+        "confirmPassword": "iamcde"
+    }
+        
+]
